@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ Olga Khristoliubova (Smith)
 - 👀 I’m interested in coding and data
-- 🌱 I’m currently learning HTML JS Pyton
+- 🌱 I’m currently learning HTML JS React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me olga84h@gmail.com
 
